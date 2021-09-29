@@ -14,11 +14,9 @@ Let's take a look at the members of the Royal Cacti:
 ## Cactus Queen ![Image](https://img.pikbest.com/png-images/qiantu/cactus-cartoon-cute-desert-back-kettle-element_2588486.png!c1024wm0/compress/true/progressive/true/format/webp/fw/1024)
 ### Cactus Prince ![Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAzlU4ul1q3UyVma1lNl5R35yUZD4U3GVM0Q&usqp=CAU)
  
-- Bulleted
-- List
+- Spike Lee proclaims, "We are not deserving of the Cactus King's presence!"
+- Elon Musk comments, "Cacti to the **MOON**!!"
 
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
