@@ -1,19 +1,19 @@
-## Welcome to GitHub Pages
+## Cactus Supremacy!!
 
-You can use the [editor on GitHub](https://github.com/Kylephong/Cactus-Supremacy/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can read the [Encylopedia of Cacti](http://www.llifle.com/Encyclopedia/CACTI/) to educate yourself on the most important thing in life: Cacti!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+All hail the Cactus King!  Those who fail to obey the laws of the Cacti shall be poked!
 
-### Markdown
+### Why should you support the Cactus King?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Despite his thorny appearance, our king is kind and essential to our ecosystem!
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
+Let's learn about the Royal Cacti!
+# Cactus King 
+<p> ![Image](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1118f318-f082-4d38-96ca-910a7f8b206d/dd1v4iv-3928e156-0033-4fbf-90dd-a412c99acdb9.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzExMThmMzE4LWYwODItNGQzOC05NmNhLTkxMGE3ZjhiMjA2ZFwvZGQxdjRpdi0zOTI4ZTE1Ni0wMDMzLTRmYmYtOTBkZC1hNDEyYzk5YWNkYjkuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Pfd-e12gTW40n8-q0nv_4MOWsFib8nmxfqZgg1GFq-A) 
+## Cactus Queen
+### Cactus Prince ![Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAzlU4ul1q3UyVma1lNl5R35yUZD4U3GVM0Q&usqp=CAU)  
 
 - Bulleted
 - List
